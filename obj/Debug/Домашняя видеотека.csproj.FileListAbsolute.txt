@@ -1,0 +1,45 @@
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.pdb
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.exe
+c:\users\user\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.pdb
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Adding.resources
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingCompany.resources
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingDirector.resources
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Claim.resources
+C:\Users\User\documents\visual studio 2012\Projects\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AdingUser.resources
+C:\Users\User\Desktop\Женя\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe.config
+C:\Users\User\Desktop\Женя\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.exe
+C:\Users\User\Desktop\Женя\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.pdb
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe.config
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.exe
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.pdb
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Adding.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingCompany.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingDirector.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AdingUser.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Claim.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Form1.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Properties.Resources.resources
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe
+C:\Users\User\Desktop\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.pdb
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe.config
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.exe
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.pdb
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.exe
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\bin\Debug\Домашняя видеотека.pdb
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Adding.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingCompany.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AddingDirector.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.AdingUser.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Claim.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Form1.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя_видеотека.Properties.Resources.resources
+C:\Users\User\Downloads\Домашняя видеотека\Домашняя видеотека\obj\Debug\Домашняя видеотека.csproj.GenerateResource.Cache
